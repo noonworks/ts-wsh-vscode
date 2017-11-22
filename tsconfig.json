@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "amd",
+        "sourceMap": false,
+        "removeComments": true,
+        "outFile": "output/built.js",
+        "lib": [
+            "es5",
+            "scripthost"
+        ]
+    }
+}
