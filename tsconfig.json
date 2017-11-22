@@ -9,5 +9,9 @@
             "es5",
             "scripthost"
         ]
-    }
+    },
+    "exclude": [
+         // if you do not use libraries, add them to exclude or remove the files
+         "ts/lib/vbsdialogs.ts"
+    ]
 }
